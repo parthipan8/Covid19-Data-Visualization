@@ -4,7 +4,7 @@
 
 ### About Info
 
-![App Screenshot](https://raw.githubusercontent.com/parthipan8/Analysis-And-Visualization-of-Covid19/master/Screenshots/Info.jpg)
+![App Screenshot](https://raw.githubusercontent.com/parthipan8/Covid19-Data-Visualization/main/Info.jpg)
 
 ### Dashboard Output
 
